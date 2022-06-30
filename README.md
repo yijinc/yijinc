@@ -65,11 +65,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a>
 </p>
-
-### GitHub Statistics
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yijinc&theme=nightowl" alt="yijinc" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yijinc&show_icons=true&locale=en&theme=nightowl" alt="yijinc" /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yijinc&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="yijinc" />
-</p>
