@@ -18,8 +18,8 @@
 </p>
 
 
--  👨🏻‍💻  I'm a front-end web developer
--  💓  Currently developing with React + Typescript
+-  👨🏻‍💻  I'm a full-stack developer
+-  💓  Currently developing with java + React + Typescript
 -  🛠️  Coding since 2015 
 
 ### Languages and Tools
